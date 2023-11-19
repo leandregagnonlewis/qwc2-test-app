@@ -105,7 +105,7 @@
       "mousepos_label": "Coordinates",
       "scale_label": "Scale",
       "terms_label": "Terms of use",
-      "viewertitle_label": "QWC2 Demo"
+      "viewertitle_label": "Mission Pêche Fantôme"
     },
     "copybtn": {
       "click_to_copy": "Click to copy",
@@ -142,7 +142,7 @@
       "maximize": "Maximize",
       "minimize": "Minimize",
       "nocompatpick": "No compatible geometry found",
-      "noeditablelayers": "No editable layers.",
+      "noeditablelayers": "",
       "paint": "Modify",
       "pick": "Pick",
       "pickdrawfeature": "Clone existing geometry",

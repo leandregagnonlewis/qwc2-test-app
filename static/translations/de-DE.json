@@ -142,7 +142,7 @@
       "maximize": "Maximieren",
       "minimize": "Minimieren",
       "nocompatpick": "Keine kompatible Geometrie",
-      "noeditablelayers": "Keine editierbare Ebenen.",
+      "noeditablelayers": "",
       "paint": "Bearb.",
       "pick": "Auswählen",
       "pickdrawfeature": "Existierende Geometrie kopieren",

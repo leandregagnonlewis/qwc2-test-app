@@ -15,3 +15,4 @@ import '../icons/build/qwc2-icons.css';
 const container = document.getElementById('container');
 const root = createRoot(container);
 root.render(<StandardApp appConfig={appConfig}/>);
+

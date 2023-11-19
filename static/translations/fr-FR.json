@@ -142,7 +142,7 @@
       "maximize": "Maximiser",
       "minimize": "Minimiser",
       "nocompatpick": "Aucune géométrie compatible trouvée",
-      "noeditablelayers": "Il n'y a pas de couche éditable pour ce thème",
+      "noeditablelayers": "",
       "paint": "Éditer",
       "pick": "Choisir",
       "pickdrawfeature": "Copier la géométrie existante",

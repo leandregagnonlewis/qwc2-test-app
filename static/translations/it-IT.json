@@ -142,7 +142,7 @@
       "maximize": "Massimizza",
       "minimize": "Minimizza",
       "nocompatpick": "Nessuna geometria compatibile",
-      "noeditablelayers": "Nessun livello modificabile",
+      "noeditablelayers": "",
       "paint": "Modifica",
       "pick": "Seleziona",
       "pickdrawfeature": "Copia geometria esistente",

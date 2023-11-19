@@ -1,0 +1,23 @@
+
+#logo {
+    background-color: transparent;
+  /* Add your styles for the #logo ID here */
+}
+
+#MapCopyright {
+    background-color: transparent!important;
+    top: 5px!important;
+  /* Add your styles for the #copyright ID here */
+}
+
+#TopBar, #CenterSpan, #AppMenu {
+    height: 0px!important;
+}
+
+#layerBtn {
+    background-color: rgb(34, 34, 34)!important;
+}
+
+/* #layerIcon {
+    width: 130%!important;
+} */

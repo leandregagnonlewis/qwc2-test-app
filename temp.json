@@ -1,0 +1,21 @@
+{
+    "title": "Mission pêche fantôme",
+    "url": "http://100.26.234.83/?MAP=/etc/qgisserver/project.qgz",
+    "default": true,
+    "attribution": "Demo attribution",
+    "attributionUrl": "https://127.0.0.1/",
+    "backgroundLayers":[
+        {
+            "name":"gebco",
+            "visibility":true
+        },
+        {
+            "name":"mapnik",
+            "visibility":true
+        }
+    ],
+    "mapCrs": "EPSG:4326",
+    "additionalMouseCrs": ["EPSG:4326"],
+    "skipEmptyFeatureAttributes": true,
+    "thumbnail": "default.jpg"
+}

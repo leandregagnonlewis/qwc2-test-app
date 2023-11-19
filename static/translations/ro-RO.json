@@ -142,7 +142,7 @@
       "maximize": "Maximizează",
       "minimize": "Minimizează",
       "nocompatpick": "Nu a fost găsită o geometrie compatibilă",
-      "noeditablelayers": "Tema nu conține straturi ce pot fi modificate",
+      "noeditablelayers": "",
       "paint": "Modifică",
       "pick": "Alege",
       "pickdrawfeature": "Clonează geometria existentă",
